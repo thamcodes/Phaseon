@@ -8,13 +8,10 @@ A real-time EEG-driven prosthetic arm control system
 </p>
 
 ---
+>Phaseon is currently under active development. The system architecture and results will evolve as each phase is completed. <br>
+>This project is being carried under ITIE Knowledge Solutions Pvt. Ltd.
 
 ## 🧠 About Phaseon
-
-> ⚠️ *Phaseon is currently under active development.  
-The system architecture and results will evolve as each phase is completed.
->
-> This project is being carried under ITIE Knowledge Solutions Pvt. Ltd.*
 
 **Phaseon** is an ongoing research and engineering project that focuses on building a  
 **real-time EEG-controlled 3D-printed prosthetic arm** for basic hand interaction.
