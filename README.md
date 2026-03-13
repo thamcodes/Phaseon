@@ -8,12 +8,10 @@ A real-time EEG-driven prosthetic arm control system
 </p>
 
 ---
->Phaseon is currently under active development. The system architecture and results will evolve as each phase is completed. <br>
->This project is being carried under ITIE Knowledge Solutions Pvt. Ltd.
 
 ### 🧠 About Phaseon
 
-**Phaseon** is an ongoing research and engineering project that focuses on building a  
+**Phaseon** is a research and engineering project that focuses on building a  
 **real-time EEG-controlled 3D-printed prosthetic arm** for basic hand interaction.
 
 The system is designed to acquire brain signals, process them in real time, and translate
@@ -70,7 +68,7 @@ The Phaseon system follows a closed-loop real-time control pipeline:
 
 The project is developed in structured phases.
 
-### Phase 1 – Real-time EEG Interface & Processing (Ongoing)
+### Phase 1 – Real-time EEG Interface & Processing
 
 A real-time **Graphical User Interface (GUI)** is being developed to:
 
@@ -85,10 +83,7 @@ Future phases will integrate classification and closed-loop prosthetic control.
 
 ---
 
-### 🔭 Planned Phases
-
-- Real-time EEG feature extraction and dataset creation
-- Machine learning model for grip / release intent detection
+### 🔭  Phases
 - Real-time command mapping to servo motion
 - Closed-loop validation with the prosthetic arm
 
@@ -100,13 +95,6 @@ Future phases will integrate classification and closed-loop prosthetic control.
 - PyQt / PyQtGraph (real-time interface and plots)
 - Arduino (low-level motor control)
 - I²C communication with PCA9685
-
----
-
-### 📌 Project Status
-
-🚧 Actively under development  
-This repository currently contains the software and hardware foundations for the Phase 1 pipeline.
 
 ---
 
