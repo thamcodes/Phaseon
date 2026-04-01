@@ -12,7 +12,7 @@ A real-time EEG-driven prosthetic arm control system
 ### 🧠 About Phaseon
 
 **Phaseon** is a research and engineering project that focuses on building a  
-**real-time EEG-controlled 3D-printed prosthetic arm** for basic hand interaction.
+**real-time EEG-controlled 3D-printed robotic arm** for basic hand interaction.
 
 The system is designed to acquire brain signals, process them in real time, and translate
 the extracted patterns into **grip and release commands** for a prosthetic hand.
